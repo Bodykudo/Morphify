@@ -8,7 +8,7 @@ Introducing Morphify, your gateway to seamless multimedia conversion. With Morph
 
 ## Demo
 
-Codexa is deployed to Vercel. You can try it on the following URL: [morphify.vercel.app](https://morphify.vercel.app/).
+Morphify is deployed to Vercel. You can try it on the following URL: [morphify.vercel.app](https://morphify.vercel.app/).
 
 <div align="center">
   <img src="public/mockup.png" />
