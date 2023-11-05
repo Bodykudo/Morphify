@@ -25,9 +25,9 @@ export default function About() {
         </h2>
         <p>
           Unleash your artistic flair with our image conversion tool. Whether
-          you need to resize, crop, rotate, or convert formats, we've got you
-          covered. From converting JPEG to PNG, and more, effortlessly enhance
-          your visual content.
+          you need to resize, crop, rotate, or convert formats, we&apos;ve got
+          you covered. From converting JPEG to PNG, and more, effortlessly
+          enhance your visual content.
         </p>
       </div>
 
@@ -36,7 +36,7 @@ export default function About() {
           🎵 Audio Alchemy:
         </h2>
         <p>
-          Elevate your audio projects to new heights! With Morphify's audio
+          Elevate your audio projects to new heights! With Morphify&apos;s audio
           conversion prowess, switch between various formats like a pro – MP3,
           WAV, or AAC, you name it. Fine-tune bitrates, trim, or merge audio
           files to craft the perfect sound.
@@ -61,7 +61,7 @@ export default function About() {
         <p>
           At Morphify, we believe in empowering your creativity without hidden
           fees or restrictions. Convert as many images, audio files, and videos
-          as you desire, and it's all on the house.
+          as you desire, and it&apos;s all on the house.
         </p>
       </div>
 
@@ -71,8 +71,8 @@ export default function About() {
         </h2>
         <p>
           Access Morphify from any device with an internet connection. Whether
-          you're on your computer, tablet, or smartphone, our platform is always
-          at your fingertips.
+          you&apos;re on your computer, tablet, or smartphone, our platform is
+          always at your fingertips.
         </p>
       </div>
 
@@ -102,19 +102,19 @@ export default function About() {
           📈 Ever-Expanding:
         </h2>
         <p>
-          We're committed to staying ahead of the curve. Expect frequent updates
-          and new features to keep your multimedia experience fresh and
+          We&apos;re committed to staying ahead of the curve. Expect frequent
+          updates and new features to keep your multimedia experience fresh and
           thrilling.
         </p>
       </div>
 
       <div className='space-y-2'>
         <h2 className='text-xl md:text-2xl font-medium text-gray-700 dark:text-gray-100'>
-          🌟 It's Free, It's Mighty, It's Morphify:
+          🌟 It&apos;s Free, It&apos;s Mighty, It&apos;s Morphify:
         </h2>
         <p>
           Unlock the freedom to convert images, audio, and video without
-          constraints. Elevate your multimedia projects with Morphify's
+          constraints. Elevate your multimedia projects with Morphify&apos;s
           boundless potential.
         </p>
       </div>
@@ -122,7 +122,7 @@ export default function About() {
       <p>
         Join the ranks of content creators, professionals, and enthusiasts who
         are transforming their multimedia work. Embark on your creative journey
-        today and shine brighter than ever!"
+        today and shine brighter than ever!
       </p>
     </div>
   );

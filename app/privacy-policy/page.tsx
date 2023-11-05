@@ -27,8 +27,8 @@ export default function PrivacyPolicy() {
           Our commitment is to enhance user experiences. We gather limited data
           through Google Analytics, which includes usage information such as
           pages visited, IP addresses, browser types, device types, and referral
-          URLs. This data helps us enhance our website's features and content
-          based on user interaction.
+          URLs. This data helps us enhance our website&apos;s features and
+          content based on user interaction.
         </p>
       </div>
 
@@ -38,8 +38,8 @@ export default function PrivacyPolicy() {
         </h2>
         <p>
           We solely use the data collected through Google Analytics to
-          comprehend user behavior and improve our website's performance. We
-          have a strict policy of not selling, renting, or sharing this data
+          comprehend user behavior and improve our website&apos;s performance.
+          We have a strict policy of not selling, renting, or sharing this data
           with third parties.
         </p>
       </div>
