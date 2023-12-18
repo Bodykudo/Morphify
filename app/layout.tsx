@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Morphify',
     type: 'website',
-    images: ['/mockup.png'],
+    images: ['https://morphify.vercel.app/mockup.png'],
     url: 'https://morphify.vercel.app/',
     description:
       'Morphify: Your one-stop solution for hassle-free file conversion. Convert images, videos, and audio files effortlessly and for free. No limitations, just seamless transformation of your media into the format you need. Join Morphify today and unlock the power of versatile file conversion.',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
       'Morphify: Your one-stop solution for hassle-free file conversion. Convert images, videos, and audio files effortlessly and for free. No limitations, just seamless transformation of your media into the format you need. Join Morphify today and unlock the power of versatile file conversion.',
     card: 'summary_large_image',
     creator: 'a_m_s666',
-    images: ['/mockup.png'],
+    images: ['https://morphify.vercel.app/mockup.png'],
   },
 };
 
